@@ -5,6 +5,8 @@ This is my implmenetation of the sample application for
 Learn Web Development with Rails*](https://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
+I'm planning to extend this further and add more features to it with the intention of better learning and understanding rails. I have some ideas like adding a game, tic tac toe, where two users can start a game together.
+
 ## License
 
 All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
